@@ -14,6 +14,19 @@ Today, with the era of data, it has become an integrated performance measurement
 -	Together, they ensure successful project delivery!
 
 The evolution of Project Management.
-- ![Alt text](<img width="613" height="337" alt="The Evoluion of PM_1" src="https://github.com/user-attachments/assets/5e256ab4-53c1-46cf-a72c-eca23b2bd034" />
-)
-- 
+- ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/The%20Evoluion%20of%20PM_1.png>)
+
+II.	Problem Statement:
+> The old systems were not integrated, and even in the traditional era, this caused inconsistent and unreliable project information. Similarly, gathering information and making decisions took too much time. This was the big headache for Project Directors and Project Managers.
+III.	Project Overview and Solution:
+The project management institution resolved the limbo and turmoil of the old project management, 1950s to 1980s: the “tracking what was spent against what was planned” approach, by creating the Earned Value Management (EVM), traditional approach, 1980s to 2000s: the “tracking of what is actually earned vs what is spent and planned”. However, a decision takes time. Today, it has become an integrated performance measurement; data-driven, unified systems that provide accurate project status, early warning of delays and overruns, and reliable forecasting.
+
+Modern project management is evolving beyond traditional methods.
+This portfolio demonstrates the integration of:
+-	Project Management Triangle
+-	Earned Value Management (EVM)
+-	Data Analytics & Artificial Intelligence
+These tools enhance **decision-making, forecasting, and project performance control**.
+
+One picture tells all!
+- ![Alt text](
