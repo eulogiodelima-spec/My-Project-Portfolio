@@ -68,7 +68,7 @@ VI.	Insights & Recommendations:
 
 VII.	Conclusion at a glance,
 
-![Alt text](<Portfolio/blob/main/ChatGPT%20Image%20Mar%2023%2C%202026%2C%2005_43_55%20PM.png>)
+![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/ChatGPT%20Image%20Mar%2023%2C%202026%2C%2005_43_55%20PM.png>)
 
 VIII.	Executive Insight
 > “You cannot control what you cannot measure - EVM made project performance measurable and reliable, then combined it with the latest technology, and then everything is done easily and promptly.”  Get involved and resolve!  
