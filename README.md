@@ -76,7 +76,7 @@ VIII.	Executive Insight
 > “You cannot control what you cannot measure - EVM made project performance measurable and reliable, then combined it with the latest technology, and then everything is done easily and promptly.”  Get involved and resolve!  
 
 IX.	External Sources
-Earned Value Management Formulas (attached MS Word file) 
+> Earned Value Management Formulas (attached MS Word file) 
 https://docs.google.com/document/d/1OHKz_HWv5pnYxmgWEd2zHnWmiBD9FgnJ/edit
 
 					---- END ----
