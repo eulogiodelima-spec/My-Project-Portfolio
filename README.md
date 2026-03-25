@@ -40,6 +40,10 @@ I created a folder entitled “Russia Mega Oil & Gas Projects_Brave Analytics B3
 
 https://drive.google.com/drive/folders/120yvHq6z9_2wm0oV8Wq1fxUz49uo8J53?usp=drive_link
 
+##### b.	Data Cleaning and Preprocessing
+Since some worksheets from the Excel file titled “Russia Mega Projects_Raw Data” were imported from the Primavera P6 schedule application, most of the formats are not standard for Excel. Therefore, data analysis and cleaning were performed in Power BI transformation. 
+![Alt text](
+
 https://docs.google.com/document/d/1OHKz_HWv5pnYxmgWEd2zHnWmiBD9FgnJ/edit
 
 
