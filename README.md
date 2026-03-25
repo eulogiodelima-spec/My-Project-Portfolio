@@ -1,6 +1,6 @@
 # The New Era of Project Management
 ## |Project Performance Evaluation|
-### My 1st Project Portfolio under Brave Analytics Bootcamp Class Batch 3|
+### My 1st Project Portfolio under Brave Analytics Bootcamp Class Batch 3; 25th Mar. 2026 |
 ##### - By Eulogio “Eli” N. Delima 
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/My_Profile_Picture_3.png>)
 > I.	Brief History of Project Reporting (Pre-EVM to Modern Practice):
