@@ -24,7 +24,7 @@ III.	Project Overview and Solution:
 > The project management institution resolved the limbo and turmoil of the old project management, 1950s to 1980s: the “tracking what was spent against what was planned” approach, by creating the Earned Value Management (EVM), traditional approach, 1980s to 2000s: the “tracking of what is actually earned vs what is spent and planned”. However, a decision takes time. Today, it has become an integrated performance measurement; data-driven, unified systems that provide accurate project status, early warning of delays and overruns, and reliable forecasting.
 
 Modern project management is evolving beyond traditional methods.
-> This portfolio demonstrates the integration of:
+> This **portfolio** demonstrates the integration of:
 -	Project Management Triangle
 -	Earned Value Management (EVM)
 -	Data Analytics & Artificial Intelligence
