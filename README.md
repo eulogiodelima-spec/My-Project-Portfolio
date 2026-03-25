@@ -4,7 +4,7 @@
 ##### - By Eulogio “Eli” N. Delima 
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/My_Profile_Picture_3.png>)
 > I.	Brief History of Project Reporting (Pre-EVM to Modern Practice):
-> In the early days of project management (before the 1960s–1980s), project reporting was fragmented and done in silos:
+##### In the early days of project management (before the 1960s–1980s), project reporting was fragmented and done in silos:
 - *Schedule progress* was tracked separately using bar charts or early CPM
 - *Cost reports* focused only on actual expenditures vs. the budget
 - *Physical progress* was reported subjectively by site teams
