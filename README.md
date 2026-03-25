@@ -10,7 +10,7 @@
 - *Physical progress* was reported subjectively by site teams
 > Then, from the 1980s to the 2000s, Earned Value Management (EVM era) was created, and reporting has become integrated: 
 -	*Schedule progress and cost status* were tracked as one using the Earned Value formulas. The report becomes reliable and reasonable. However, decision-making and forecasting take time.
-Today, with the era of data, it has become an integrated performance measurement, together with the project risk assessment.      
+> Today, with the era of data, it has become an integrated performance measurement, together with the project risk assessment.      
 -	*All reports* become unified systems with reliable results, and are done productively & efficiently.  
 -	Together, they ensure successful project delivery!
 
