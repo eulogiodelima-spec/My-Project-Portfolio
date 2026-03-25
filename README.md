@@ -63,7 +63,23 @@ Chart-2 is the progress monitoring chart for the planned vs actual vs earned.
 Chart-3 Primavera P6 Schedule
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Schedule.png>)
 
+VI.	Insights & Recommendations:
+> This is how project management has evolved today. But only a few are tech-savvy with these tools at present. I am glad I will be one of the few. If you love your work and career, upskill and get ahead; do not be left behind. Be the bravest. In today’s advancing world, it is not about how good you are at it, but it is about how efficient you are.    
 
+VII.	Conclusion at a glance,
+
+![Alt text](<Portfolio/blob/main/ChatGPT%20Image%20Mar%2023%2C%202026%2C%2005_43_55%20PM.png>)
+
+VIII.	Executive Insight
+> “You cannot control what you cannot measure - EVM made project performance measurable and reliable, then combined it with the latest technology, and then everything is done easily and promptly.”  Get involved and resolve!  
+
+IX.	External Sources
+Earned Value Management Formulas (attached MS Word file) 
 https://docs.google.com/document/d/1OHKz_HWv5pnYxmgWEd2zHnWmiBD9FgnJ/edit
+
+					---- END ----
+
+
+
 
 
