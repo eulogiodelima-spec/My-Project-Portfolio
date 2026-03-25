@@ -14,5 +14,6 @@ Today, with the era of data, it has become an integrated performance measurement
 -	Together, they ensure successful project delivery!
 
 The evolution of Project Management.
-- ![Alt text](C:\Users\De Lima\Documents\AI Data Science Machine Learning\Brave Analytics Class B3 2026\Project Portfolio)
+- ![Alt text](<img width="613" height="337" alt="The Evoluion of PM_1" src="https://github.com/user-attachments/assets/5e256ab4-53c1-46cf-a72c-eca23b2bd034" />
+)
 - 
