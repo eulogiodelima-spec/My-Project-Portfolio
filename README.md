@@ -18,6 +18,7 @@ The evolution of Project Management.
 
 II.	Problem Statement:
 > The old systems were not integrated, and even in the traditional era, this caused inconsistent and unreliable project information. Similarly, gathering information and making decisions took too much time. This was the big headache for Project Directors and Project Managers.
+
 III.	Project Overview and Solution:
 The project management institution resolved the limbo and turmoil of the old project management, 1950s to 1980s: the “tracking what was spent against what was planned” approach, by creating the Earned Value Management (EVM), traditional approach, 1980s to 2000s: the “tracking of what is actually earned vs what is spent and planned”. However, a decision takes time. Today, it has become an integrated performance measurement; data-driven, unified systems that provide accurate project status, early warning of delays and overruns, and reliable forecasting.
 
