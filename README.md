@@ -1,7 +1,7 @@
 # The New Era of Project Management
 ## |Project Performance Evaluation|
 ### My 1st Project Portfolio under Brave Analytics Bootcamp Class Batch 3|
-##### - By Eulogio “Eli” N. Delima ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/The%20Evoluion%20of%20PM_1.png>)
+##### - By Eulogio “Eli” N. Delima ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/My_Profile_Picture_2.png>)
 I.	Brief History of Project Reporting (Pre-EVM to Modern Practice):
 > In the early days of project management (before the 1960s–1980s), project reporting was fragmented and done in silos:
 - *Schedule progress* was tracked separately using bar charts or early CPM
