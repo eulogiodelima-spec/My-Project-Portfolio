@@ -51,8 +51,9 @@ The Excel raw data was imported from the Primavera P6 application; many formats 
 I used Excel and Power BI to do the data analytics due to limited access to other applications, where I cannot upload my raw data.
 
 V.	Graphical Presentation / Charts:
-> I make a simple dashboard, but it provides all the analysis to establish which projects are at risk, critical, behind schedule, and overspent. In layman’s terms, those are the projects that are not performing well. This calculation is made with the Earned Value formulas and the Project Risk Assessment Scoreboard. All project performance in a single dashboard. It is user-friendly to Project Directors and Project Managers, as it is some clicks away.  
-
+> I make a simple dashboard, but it provides all the analysis to establish which projects are at risk, critical, behind schedule, and overspent. In layman’s terms, those are the projects that are not performing well. This calculation is made with the Earned Value formulas and the Project Risk Assessment Scoreboard. All project performance in a single dashboard. It is user-friendly to Project Directors and Project Managers, as it is some clicks away.
+  
+I KISS U!
 ![Alt text](<>)
 ![Alt text](<>)
 
