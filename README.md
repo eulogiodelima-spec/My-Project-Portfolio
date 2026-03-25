@@ -27,8 +27,8 @@ Modern project management is evolving beyond traditional methods.
 > This **portfolio** demonstrates the integration of:
 -	Project Management Triangle
 -	Earned Value Management (EVM)
--	Data Analytics & Artificial Intelligence
-These tools enhance **decision-making, forecasting, and project performance control**.
+-	Data Analytics & Artificial Intelligence.
+> These tools enhance **decision-making, forecasting, and project performance control**.
 
 One picture tells all!
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/ChatGPT%20Image%20Mar%2020%2C%202026%2C%2011_56_35%20AM.png>)
