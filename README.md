@@ -58,10 +58,10 @@ I KISS U!
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Power_BI_Project_Performance_Visual.png>) 
 
 Chart-2 is the progress monitoring chart for the planned vs actual vs earned.
-![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Graph_2.jpg>)
+![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Progress%20Chart_Russia%20Mega%20Projects.jpg>)
 
 Chart-3 Primavera P6 Schedule
-![Alt text](<>)
+![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Schedule.png>)
 
 
 https://docs.google.com/document/d/1OHKz_HWv5pnYxmgWEd2zHnWmiBD9FgnJ/edit
