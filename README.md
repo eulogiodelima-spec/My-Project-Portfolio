@@ -44,6 +44,18 @@ https://drive.google.com/drive/folders/120yvHq6z9_2wm0oV8Wq1fxUz49uo8J53?usp=dri
 Since some worksheets from the Excel file titled “Russia Mega Projects_Raw Data” were imported from the Primavera P6 schedule application, most of the formats are not standard for Excel. Therefore, data analysis and cleaning were performed in Power BI transformation. 
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Power_BI_data_cleaning.png>)
 
+#### c.	Exploratory Data Analysis (EDA)
+The Excel raw data was imported from the Primavera P6 application; many formats are not compatible with the Power BI application. Hence, with the help of Power BI data transformation, I cleaned the data from void cells, incompatible date formats, hidden, and special characters. 
+
+#### d.	Feature Engineering
+I used Excel and Power BI to do the data analytics due to limited access to other applications, where I cannot upload my raw data.
+
+V.	Graphical Presentation / Charts:
+> I make a simple dashboard, but it provides all the analysis to establish which projects are at risk, critical, behind schedule, and overspent. In layman’s terms, those are the projects that are not performing well. This calculation is made with the Earned Value formulas and the Project Risk Assessment Scoreboard. All project performance in a single dashboard. It is user-friendly to Project Directors and Project Managers, as it is some clicks away.  
+
+![Alt text](
+![Alt text](
+
 https://docs.google.com/document/d/1OHKz_HWv5pnYxmgWEd2zHnWmiBD9FgnJ/edit
 
 
