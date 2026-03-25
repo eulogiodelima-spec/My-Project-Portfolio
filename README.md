@@ -29,4 +29,7 @@ This portfolio demonstrates the integration of:
 These tools enhance **decision-making, forecasting, and project performance control**.
 
 One picture tells all!
-- ![Alt text](
+![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/ChatGPT%20Image%20Mar%2020%2C%202026%2C%2011_56_35%20AM.png>)
+*(This is how I showcase my skills in prompt engineering and Artificial Intelligence to convey the message of my portfolio in a single artistic infographic.)*
+
+
