@@ -32,4 +32,12 @@ One picture tells all!
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/ChatGPT%20Image%20Mar%2020%2C%202026%2C%2011_56_35%20AM.png>)
 *(This is how I showcase my skills in prompt engineering and Artificial Intelligence to convey the message of my portfolio in a single artistic infographic.)*
 
+IV.	Data and Methodology:
+##### a.	Data Overview
+Collecting complete data from an oil & gas project is challenging. Even with the help of ChatGPT, Gemini, and other AI tools, they all gave the same response: 'It’s confidential.' Data in oil & gas projects is restricted from being accessed by AI tools due to confidentiality. However, I managed to gather the data piece by piece and integrate it. A realistic Primavera P6 schedule was built from scratch, with details collected from information provided by ChatGPT, Gemini, and considerable assistance from Dola. Creating a new Primavera P6 schedule is time-consuming, as I need to establish activity codes and activity relationships, and load resources to simulate a true and workable project schedule. 
+
+I created a folder entitled “Russia Mega Oil & Gas Projects_Brave Analytics B3” in Google Drive to make it accessible online and become part of the mega-data world-wide. They are raw data with different formats: Primavera P6.xer, Excel.xlsx, Word.docx, and PowerPoint.pptx, Power BI.pbix, and photos. They are accessible through the link below:
+
+https://drive.google.com/drive/folders/120yvHq6z9_2wm0oV8Wq1fxUz49uo8J53?usp=drive_link
+
 
