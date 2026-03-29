@@ -74,6 +74,7 @@ https://drive.google.com/drive/folders/120yvHq6z9_2wm0oV8Wq1fxUz49uo8J53?usp=dri
 
 ##### b.	Data Cleaning and Preprocessing
 Since some worksheets from the Excel file titled “Russia Mega Projects_Raw Data” were imported from the Primavera P6 schedule application, most of the formats are not standard for Excel. Therefore, data analysis and cleaning were performed in Power BI transformation. 
+
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Power_BI_data_cleaning.png>)
 
 #### c.	Exploratory Data Analysis (EDA)
@@ -160,6 +161,7 @@ The alignment between planned and actual curves confirms that project controls r
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Progress%20Chart_Russia%20Mega%20Projects.jpg>)
 
 Chart-3 Primavera P6 Schedule
+
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Schedule.png>)
 
 VI.	Insights & Recommendations:
