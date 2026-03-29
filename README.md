@@ -18,6 +18,15 @@ The evolution of Project Management.
 - ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/The%20Evoluion%20of%20PM_1.png>)
 
 II.	Problem Statement:
+> Mega-project portfolios involve high uncertainty due to schedule complexity, cost variability, contractor coordination challenges, and stakeholder dependencies. Without integrated performance monitoring, project managers cannot quickly identify whether projects are progressing according to plan or drifting toward delays and overruns.
+
+This analysis was conducted to evaluate whether the Russia Mega Projects portfolio is:
+on schedule,
+within budget,
+exposed to execution risks,
+or showing early warning indicators requiring intervention.
+
+>The objective is to support evidence-based decision-making using Earned Value Management (EVM) metrics and a multi-factor Project Risk Scoreboard.
 > The old systems were not integrated, and even in the traditional era, this caused inconsistent and unreliable project information. Similarly, gathering information and making decisions took too much time. This was the big headache for Project Directors and Project Managers.
 
 III.	Project Overview and Solution:
@@ -143,7 +152,7 @@ However, continuous monitoring of schedule index variations within selected subp
 > This is how project management has evolved today. But only a few are tech-savvy with these tools at present. I am glad I will be one of the few. If you love your work and career, upskill and get ahead; do not be left behind. Be the bravest. In today’s advancing world, it is not about how good you are at it, but it is about how efficient you are.    
 
 VII.	Conclusion at a glance,
-This dashboard demonstrates how integrating Primavera schedule data with Power BI analytics enables proactive portfolio-level monitoring using Earned Value metrics and risk scoring techniques to support evidence-based project control decisions.
+> This dashboard demonstrates how integrating Primavera schedule data with Power BI analytics enables proactive portfolio-level monitoring using Earned Value metrics and risk scoring techniques to support evidence-based project control decisions.
 
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/ChatGPT%20Image%20Mar%2023%2C%202026%2C%2005_43_55%20PM.png>)
 
