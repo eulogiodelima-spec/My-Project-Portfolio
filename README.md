@@ -79,8 +79,31 @@ Analytical Insight
 
 From an Earned Value perspective, the portfolio demonstrates stable schedule adherence and strong cost efficiency, which is characteristic of controlled execution environments typical in well-managed mega-project programs.
 
-![Alt text](<Project Performance Dashboard_Power BI.jpg>) 
+Project Risk Scoreboard Analysis
 
+The Project Risk Scoreboard integrates multiple weighted indicators:
+
+Experience Score
+Priority Level Score
+Complexity Score
+Schedule Index Score
+Cost Index Score
+Vendor Reliability Score
+Stakeholder Engagement Score
+
+These variables contribute to the composite Risk Score.
+
+Interpretation
+
+Most projects fall within moderate-to-low exposure ranges, indicating that risk drivers are being effectively managed. Vendor reliability and stakeholder engagement appear particularly stable across projects, reducing execution uncertainty.
+
+Projects with lower schedule index values represent potential early warning signals and should be monitored to prevent downstream delays.
+
+Analytical Insight
+
+The scoreboard acts as a predictive monitoring layer complementing Earned Value metrics by identifying risk sources before they translate into schedule or cost deviations.
+
+![Alt text](<Project Performance Dashboard_Power BI.jpg>) 
 
 Chart-2 is the progress monitoring chart for the planned vs actual vs earned.
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Progress%20Chart_Russia%20Mega%20Projects.jpg>)
