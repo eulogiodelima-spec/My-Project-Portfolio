@@ -133,9 +133,17 @@ Chart-3 Primavera P6 Schedule
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Schedule.png>)
 
 VI.	Insights & Recommendations:
+Based on Earned Value indicators, risk scoring analysis, and cumulative progress tracking, the Russia Mega Projects portfolio demonstrates stable schedule adherence, positive cost efficiency, and controlled execution risk exposure.
+
+The SPI value of 1.0 confirms schedule compliance, while CPI greater than 1.0 reflects efficient financial performance. The 35% composite risk level further supports the conclusion that the portfolio remains within acceptable operational thresholds.
+
+Together, these indicators suggest that current project governance structures, contractor coordination strategies, and stakeholder engagement mechanisms are functioning effectively.
+
+However, continuous monitoring of schedule index variations within selected subprojects is recommended to prevent localized delays from affecting downstream integration milestones.
 > This is how project management has evolved today. But only a few are tech-savvy with these tools at present. I am glad I will be one of the few. If you love your work and career, upskill and get ahead; do not be left behind. Be the bravest. In today’s advancing world, it is not about how good you are at it, but it is about how efficient you are.    
 
 VII.	Conclusion at a glance,
+This dashboard demonstrates how integrating Primavera schedule data with Power BI analytics enables proactive portfolio-level monitoring using Earned Value metrics and risk scoring techniques to support evidence-based project control decisions.
 
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/ChatGPT%20Image%20Mar%2023%2C%202026%2C%2005_43_55%20PM.png>)
 
