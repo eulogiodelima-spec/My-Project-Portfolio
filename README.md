@@ -47,7 +47,9 @@ Since some worksheets from the Excel file titled “Russia Mega Projects_Raw Dat
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Power_BI_data_cleaning.png>)
 
 #### c.	Exploratory Data Analysis (EDA)
-The Excel raw data was imported from the Primavera P6 application; many formats are not compatible with the Power BI application. Hence, with the help of Power BI data transformation, I cleaned the data from void cells, incompatible date formats, hidden, and special characters. 
+The dataset used in this analysis originated from a Primavera P6 schedule exported to Excel. Because Primavera exports are not structured in a format immediately suitable for analytics, the data required transformation using Power BI Query Editor. During this step, column types were standardized, null values reviewed, duration fields validated, and activity attributes aligned for consistency across projects.
+
+This preprocessing ensured that schedule indicators, cost indicators, and risk scoring calculations were reliable for Earned Value Management (EVM) evaluation.
 
 #### d.	Feature Engineering
 I used Excel and Power BI to do the data analytics due to limited access to other applications, where I cannot upload my raw data.
@@ -55,9 +57,30 @@ I used Excel and Power BI to do the data analytics due to limited access to othe
 V.	Graphical Presentation / Charts:
 > I make a simple dashboard, but it provides all the analysis to establish which projects are at risk, critical, behind schedule, and overspent. In layman’s terms, those are the projects that are not performing well. This calculation is made with the Earned Value formulas and the Project Risk Assessment Scoreboard. All project performance in a single dashboard. It is user-friendly to Project Directors and Project Managers, as it is some clicks away.
 
-Chart-1 
-> I KISS U!
+Chart-1 Earned Value Management Dashboard Analysis
+The Earned Value dashboard evaluates project health using Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI), and Cost Performance Index (CPI).
+
+The dashboard shows:
+
+Schedule Variance (SV) = 0.0
+Cost Variance (CV) = 2,032.4
+SPI = 1.0
+CPI > 1.0
+Overall Risk Indicator = 35% (Low Risk)
+Interpretation
+
+An SPI equal to 1.0 indicates that project execution is progressing exactly as planned. Activities are neither delayed nor ahead of schedule.
+
+A positive Cost Variance and CPI greater than 1.0 indicate that the project is performing under budget. This means resources are being utilized efficiently without cost overruns.
+
+The Risk Scoreboard further supports this conclusion by showing a low aggregated project exposure level of 35%, suggesting acceptable performance across complexity, stakeholder engagement, vendor reliability, and schedule stability indicators.
+
+Analytical Insight
+
+From an Earned Value perspective, the portfolio demonstrates stable schedule adherence and strong cost efficiency, which is characteristic of controlled execution environments typical in well-managed mega-project programs.
+
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Power_BI_Project_Performance_Visual.png>) 
+
 
 Chart-2 is the progress monitoring chart for the planned vs actual vs earned.
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Progress%20Chart_Russia%20Mega%20Projects.jpg>)
