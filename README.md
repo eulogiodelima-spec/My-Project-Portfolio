@@ -43,9 +43,30 @@ One picture tells all!
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/ChatGPT%20Image%20Mar%2020%2C%202026%2C%2011_56_35%20AM.png>)
 *(This is how I showcase my skills in prompt engineering and Artificial Intelligence to convey the message of my portfolio in a single artistic infographic.)*
 
-IV.	Data and Methodology:
-##### a.	Data Overview
-Collecting complete data from an oil & gas project is challenging. Even with the help of ChatGPT, Gemini, and other AI tools, they all gave the same response: 'It’s confidential.' Data in oil & gas projects is restricted from being accessed by AI tools due to confidentiality. However, I managed to gather the data piece by piece and integrate it. A realistic Primavera P6 schedule was built from scratch, with details collected from information provided by ChatGPT, Gemini, and considerable assistance from Dola. Creating a new Primavera P6 schedule is time-consuming, as I need to establish activity codes and activity relationships, and load resources to simulate a true and workable project schedule. 
+IV.	Data Preparation and Methodology:
+
+Data preparation included:
+
+standardizing activity attributes,
+validating duration fields,
+converting column data types,
+removing null inconsistencies,
+structuring schedule and cost indicators,
+preparing calculated fields for SPI, CPI, SV, and CV.
+
+After transformation, Earned Value formulas and weighted risk scoring metrics were applied to evaluate performance across the portfolio.
+
+This methodology ensures consistency between schedule tracking, cost monitoring, and predictive risk assessment.
+##### a.	Data Preparation
+Collecting complete data from an oil & gas project is challenging. Even with the help of ChatGPT, Gemini, and other AI tools, they all gave the same response: 'It’s confidential.' Data in oil & gas projects is restricted from being accessed by AI tools due to confidentiality. However, I managed to gather the data piece by piece and integrate it. A realistic Primavera P6 schedule was built from scratch, with details collected from information provided by ChatGPT, Gemini, and considerable assistance from Dola. Creating a new Primavera P6 schedule is time-consuming, as I need to establish activity codes and activity relationships, and load resources to simulate a true and workable project schedule.
+
+> Data preparation included:
+- standardizing activity attributes,
+- validating duration fields,
+- converting column data types,
+- removing null inconsistencies,
+- structuring schedule and cost indicators,
+- preparing calculated fields for SPI, CPI, SV, and CV.
 
 I created a folder entitled “Russia Mega Oil & Gas Projects_Brave Analytics B3” in Google Drive to make it accessible online and become part of the mega-data world-wide. They are raw data with different formats: Primavera P6.xer, Excel.xlsx, Word.docx, and PowerPoint.pptx, Power BI.pbix, and photos. They are accessible through the link below:
 
