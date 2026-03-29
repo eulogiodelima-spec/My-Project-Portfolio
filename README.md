@@ -105,6 +105,27 @@ The scoreboard acts as a predictive monitoring layer complementing Earned Value 
 ![Alt text](<Project Performance Dashboard_Power BI.jpg>) 
 
 Chart-2 is the progress monitoring chart for the planned vs actual vs earned.
+The Yearly Progress Chart compares:
+
+Planned Cost
+Actual Cost
+Earned Value
+Cumulative Planned %
+Cumulative Actual %
+
+This visualization evaluates whether execution performance aligns with baseline expectations.
+
+Interpretation
+
+The cumulative planned and actual progress curves follow a closely aligned trajectory throughout the timeline, indicating that implementation is proceeding according to forecast.
+
+Minor deviations between planned and actual spending appear in intermediate years but remain within acceptable tolerance levels and do not indicate structural schedule slippage.
+
+Peak expenditure occurs between 2028 and 2031, representing the primary execution phase of the program lifecycle.
+
+Analytical Insight
+
+The alignment between planned and actual curves confirms that project controls remain effective during the highest capital deployment period, which is typically where mega-projects face the greatest execution risk.
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Progress%20Chart_Russia%20Mega%20Projects.jpg>)
 
 Chart-3 Primavera P6 Schedule
