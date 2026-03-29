@@ -57,16 +57,16 @@ I used Excel and Power BI to do the data analytics due to limited access to othe
 V.	Graphical Presentation / Charts:
 > I make a simple dashboard, but it provides all the analysis to establish which projects are at risk, critical, behind schedule, and overspent. In layman’s terms, those are the projects that are not performing well. This calculation is made with the Earned Value formulas and the Project Risk Assessment Scoreboard. All project performance in a single dashboard. It is user-friendly to Project Directors and Project Managers, as it is some clicks away.
 
-Chart-1 Earned Value Management Dashboard Analysis
-The Earned Value dashboard evaluates project health using Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI), and Cost Performance Index (CPI).
+Chart-1 **Earned Value Management Dashboard Analysis**
+> The Earned Value dashboard evaluates project health using Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI), and Cost Performance Index (CPI).
 
 The dashboard shows:
-
 Schedule Variance (SV) = 0.0
 Cost Variance (CV) = 2,032.4
 SPI = 1.0
 CPI > 1.0
 Overall Risk Indicator = 35% (Low Risk)
+
 Interpretation
 
 An SPI equal to 1.0 indicates that project execution is progressing exactly as planned. Activities are neither delayed nor ahead of schedule.
@@ -79,10 +79,9 @@ Analytical Insight
 
 From an Earned Value perspective, the portfolio demonstrates stable schedule adherence and strong cost efficiency, which is characteristic of controlled execution environments typical in well-managed mega-project programs.
 
-Project Risk Scoreboard Analysis
+**Project Risk Scoreboard Analysis**
 
-The Project Risk Scoreboard integrates multiple weighted indicators:
-
+> The Project Risk Scoreboard integrates multiple weighted indicators:
 Experience Score
 Priority Level Score
 Complexity Score
