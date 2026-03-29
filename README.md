@@ -79,7 +79,7 @@ Analytical Insight
 
 From an Earned Value perspective, the portfolio demonstrates stable schedule adherence and strong cost efficiency, which is characteristic of controlled execution environments typical in well-managed mega-project programs.
 
-![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Power_BI_Project_Performance_Visual.png>) 
+![Alt text](<Project Performance Dashboard_Power BI.jpg>) 
 
 
 Chart-2 is the progress monitoring chart for the planned vs actual vs earned.
