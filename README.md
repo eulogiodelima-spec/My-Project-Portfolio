@@ -20,11 +20,11 @@ The evolution of Project Management.
 II.	Problem Statement:
 > Mega-project portfolios involve high uncertainty due to schedule complexity, cost variability, contractor coordination challenges, and stakeholder dependencies. Without integrated performance monitoring, project managers cannot quickly identify whether projects are progressing according to plan or drifting toward delays and overruns.
 
-This analysis was conducted to evaluate whether the Russia Mega Projects portfolio is:
-on schedule,
-within budget,
-exposed to execution risks,
-or showing early warning indicators requiring intervention.
+> This analysis was conducted to evaluate whether the Russia Mega Projects portfolio is:
+- **on schedule**,
+- **within budget**,
+- **exposed to execution risks**, or
+- **showing early warning indicators requiring intervention**.
 
 >The objective is to support evidence-based decision-making using Earned Value Management (EVM) metrics and a multi-factor Project Risk Scoreboard.
 > The old systems were not integrated, and even in the traditional era, this caused inconsistent and unreliable project information. Similarly, gathering information and making decisions took too much time. This was the big headache for Project Directors and Project Managers.
