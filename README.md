@@ -196,7 +196,7 @@ The Primavera P6 schedule demonstrates a phased and parallelized execution strat
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/Schedule.png>)
 
 VI.	Insights & Recommendations:
-Based on Earned Value indicators, risk scoring analysis, and cumulative progress tracking, the Russia Mega Projects portfolio demonstrates stable schedule adherence, positive cost efficiency, and controlled execution risk exposure.
+> Based on Earned Value indicators, risk scoring analysis, and cumulative progress tracking, the Russia Mega Projects portfolio demonstrates stable schedule adherence, positive cost efficiency, and controlled execution risk exposure.
 
 The SPI value of 1.0 confirms schedule compliance, while CPI greater than 1.0 reflects efficient financial performance. The 35% composite risk level further supports the conclusion that the portfolio remains within acceptable operational thresholds.
 
