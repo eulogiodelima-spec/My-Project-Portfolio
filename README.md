@@ -68,7 +68,7 @@ Collecting complete data from an oil & gas project is challenging. Even with the
 - structuring schedule and cost indicators,
 - preparing calculated fields for SPI, CPI, SV, and CV.
 
-I created a folder entitled “Russia Mega Oil & Gas Projects_Brave Analytics B3” in Google Drive to make it accessible online and become part of the mega-data world-wide. They are raw data with different formats: Primavera P6.xer, Excel.xlsx, Word.docx, and PowerPoint.pptx, Power BI.pbix, and photos. They are accessible through the link below:
+I created a folder entitled “Russia Mega Oil and Gas Projects_B.A. Analytics_Bootcamp_B3” in Google Drive to make it accessible online and become part of the mega-data world-wide. They are raw data with different formats: Primavera P6.xer, Excel.xlsx, Word.docx, and PowerPoint.pptx, Power BI.pbix, and photos. They are accessible through the link below:
 
 https://drive.google.com/drive/folders/120yvHq6z9_2wm0oV8Wq1fxUz49uo8J53?usp=drive_link
 
