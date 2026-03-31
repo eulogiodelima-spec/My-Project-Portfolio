@@ -165,6 +165,7 @@ Chart-3 Primavera P6 Schedule Analysis
 Purpose of the Schedule Analysis:
 
 > The Primavera P6 schedule was analyzed to evaluate sequencing logic, execution phasing, and progress status across major construction areas within the Russia Gas Field Projects program. The objective of this review is to assess whether activity durations, milestones, and discipline groupings support realistic implementation planning and effective monitoring of critical execution packages.
+
 > Schedule Progress Indicators:
 
 Several activities show partial completion percentages, indicating that execution has already begun in selected infrastructure packages.
@@ -206,12 +207,12 @@ However, continuous monitoring of schedule index variations within selected subp
 > This is how project management has evolved today. But only a few are tech-savvy with these tools at present. I am glad I will be one of the few. If you love your work and career, upskill and get ahead; do not be left behind. Be the bravest. In today’s advancing world, it is not about how good you are at it, but it is about how efficient you are.    
 
 VII.	Conclusion at a glance,
-> This dashboard demonstrates how integrating Primavera schedule data with Power BI analytics enables proactive portfolio-level monitoring using Earned Value metrics and risk scoring techniques to support evidence-based project control decisions.
+> This dashboard demonstrates how integrating Primavera schedule data with Power BI and other Data Analytics application tools like SQL, Python, Tableau, etc.; enables proactive portfolio-level monitoring using Earned Value metrics and risk scoring techniques to support evidence-based project control decisions.
 
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/ChatGPT%20Image%20Mar%2023%2C%202026%2C%2005_43_55%20PM.png>)
 
 VIII.	Executive Insight:
-> “You cannot control what you cannot measure - EVM made project performance measurable and reliable, then combined it with the latest technology, and then everything is done easily and promptly.”  Get involved and resolve!  
+> “You cannot control what you cannot measure - EVM made project performance measurable and reliable, then combined it with the latest technology, and then everything is done easily and promptly.”  You have to get involved and resolve!  
 
 IX.	External Sources:
 > Earned Value Management Formulas (attached MS Word file) 
