@@ -221,7 +221,7 @@ X.	The Real Project:
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/OFW%20Facebook%20Cover%20Photo_2.png>)
 
 XI.	My 1st Project Portfolio Bootcamp Presentation (video):
-![Alt text](<>)
+> ![Alt text](<>)
 					
 					---- END ----
 
