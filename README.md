@@ -210,13 +210,19 @@ VII.	Conclusion at a glance,
 
 ![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/ChatGPT%20Image%20Mar%2023%2C%202026%2C%2005_43_55%20PM.png>)
 
-VIII.	Executive Insight
+VIII.	Executive Insight:
 > “You cannot control what you cannot measure - EVM made project performance measurable and reliable, then combined it with the latest technology, and then everything is done easily and promptly.”  Get involved and resolve!  
 
-IX.	External Sources
+IX.	External Sources:
 > Earned Value Management Formulas (attached MS Word file) 
 https://docs.google.com/document/d/1OHKz_HWv5pnYxmgWEd2zHnWmiBD9FgnJ/edit
 
+X.	The Real Project:
+![Alt text](<>)
+
+XI.	My 1st Project Portfolio Bootcamp Presentation (video):
+![Alt text](<>)
+					
 					---- END ----
 
 
