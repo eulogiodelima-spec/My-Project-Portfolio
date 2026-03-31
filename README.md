@@ -2,7 +2,7 @@
 ## |Project Performance Evaluation|
 ### My 1st Project Portfolio under B.A. Bootcamp Class Batch 3 (AI, Prompt Eng'g, & Data Analytics); 25th Mar. 2026 |
 ##### - By Eulogio “Eli” N. Delima 
-![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/My_Profile_Picture_3.png>)
+![Alt text](<https://drive.google.com/drive/u/0/folders/120yvHq6z9_2wm0oV8Wq1fxUz49uo8J53>)
 > I.	Brief History of Project Reporting (Pre-EVM to Modern Practice):
 ##### In the early days of project management (before the 1960s–1980s), project reporting was fragmented and done in silos:
 - *Schedule progress* was tracked separately using bar charts or early CPM
