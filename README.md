@@ -218,7 +218,7 @@ IX.	External Sources:
 https://docs.google.com/document/d/1OHKz_HWv5pnYxmgWEd2zHnWmiBD9FgnJ/edit
 
 X.	The Real Project:
-![Alt text](<>)
+![Alt text](<https://github.com/eulogiodelima-spec/My-Project-Portfolio/blob/main/OFW%20Facebook%20Cover%20Photo_2.png>)
 
 XI.	My 1st Project Portfolio Bootcamp Presentation (video):
 ![Alt text](<>)
